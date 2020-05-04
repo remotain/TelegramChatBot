@@ -22,6 +22,8 @@ Data are distributed for user's convinience in compressed format. To uncompress 
 ```
 gzip -r -d data/
 ```
+## Generate models
+Open and execute the `model.ipynb` notebook in order to train the classification models required to run the ChatBot.
 
 ## Telegram token
 
