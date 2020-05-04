@@ -16,6 +16,12 @@ python3 -m virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
+## Unzip data
+Data are distributed for user's convinience in compressed format. To uncompress the files:
+
+```
+gzip -r -d data/
+```
 
 ## Telegram token
 
