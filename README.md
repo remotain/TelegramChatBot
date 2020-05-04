@@ -1,11 +1,11 @@
 # Telegram Chatbot project
 
-This project combine different concepts learned about [Natural Language Processing|https://www.coursera.org/learn/language-processing] into a simple dialog chatbot capable of:
+This project combine different concepts learned about [Natural Language Processing](https://www.coursera.org/learn/language-processing) into a simple dialog chatbot capable of:
 
 * Answering user software-programming-related questions (using StackOverflow dataset);
 * Chit-chatting and simulating a dialogue on all non-programming-related questions.
 
-The chit-chat mode uses a pre-trained Neural Network Engine available from [ChatterBot|https://chatterbot.readthedocs.io/en/stable/].
+The chit-chat mode uses a pre-trained Neural Network Engine available from [ChatterBot](https://chatterbot.readthedocs.io/en/stable/).
 
 ## Install requirements
 
