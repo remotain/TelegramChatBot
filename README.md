@@ -1,4 +1,4 @@
-# Telegram Chatbot project
+# Telegram Chatbot
 
 This project combine different concepts learned about [Natural Language Processing](https://www.coursera.org/learn/language-processing) into a simple dialog chatbot capable of:
 
